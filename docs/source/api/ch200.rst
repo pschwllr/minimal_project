@@ -1,0 +1,21 @@
+ch200 package
+=============
+
+Submodules
+----------
+
+ch200.example\_module module
+----------------------------
+
+.. automodule:: ch200.example_module
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ch200
+   :members:
+   :undoc-members:
+   :show-inheritance:
