@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4484c35
+_src_path: gh:schwallergroup/copier-liac-minimal
+author_email: philippe.schwaller@epfl.ch
+author_name: Philippe Schwaller
+github_org: pschwllr
+package_name: ch200
+project_name: ch200
+short_description: Just a short project test
