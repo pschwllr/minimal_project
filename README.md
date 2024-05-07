@@ -1,7 +1,6 @@
 ![Project Logo](assets/banner.png)
 
-[![Code style: ruff-format](https://img.shields.io/badge/code%20style-ruff_format-6340ac.svg)](https://github.com/astral-sh/ruff)
-![Coverage Status](https://raw.githubusercontent.com/pschwllr/minimal_project/main/coverage-badge.svg)
+![Coverage Status](https://raw.githubusercontent.com/pschwllr/minimal_project/main/assets/coverage-badge.svg)
 
 <h1 align="center">
 ch200
