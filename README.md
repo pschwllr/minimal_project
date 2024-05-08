@@ -75,4 +75,6 @@ Works after running `tox`
 (conda_env) $ genbadge coverage -i coverage.xml
 ```
 
+Generated with some inspiration from [cookiecutter-snekpack](https://github.com/cthoyt/cookiecutter-snekpack) and [copier-pylib](https://github.com/astrojuanlu/copier-pylib).
+
 
